@@ -8,7 +8,7 @@ We provide an out-of-the-box [implementation](./HeuristicDropout.py) of the prop
 
 ### Cite
 If you find this work useful, please consider citing the corresponding paper:
-<pre/>
+```bibtex
 @inproceedings{shi2022heuristic,
   title={Heuristic Dropout: An Efficient Regularization Method for Medical Image Segmentation Models},
   author={Shi, Dachuan and Liu, Ruiyang and Tao, Linmi and Yuan, Chun},
@@ -17,4 +17,4 @@ If you find this work useful, please consider citing the corresponding paper:
   year={2022},
   organization={IEEE}
 }
-</pre>
+```
